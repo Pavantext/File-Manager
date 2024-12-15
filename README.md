@@ -1,2 +1,2 @@
 # File-Manager
-This is a basic File Manager project
+This is a basic File Manager project, for learning
